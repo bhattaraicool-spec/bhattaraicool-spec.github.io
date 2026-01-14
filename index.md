@@ -15,7 +15,7 @@ This project focuses on creating a unified park feature layer for Chicago by mer
 * **Quality Control:** Validated data using **Topology Rules** (Must Not Overlap)
 ### Final Output
 ![Chicago Park Analysis Results](./output/output_.jpg)
-* [**View GitHub Repository**](https://github.com/bhattaraicool-spec/park-accessibility)
+* [**View GitHub Repository**](https://github.com/bhattaraicool-spec/chicago-park-accessibility)
 
 ---
 
