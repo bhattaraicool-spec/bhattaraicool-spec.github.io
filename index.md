@@ -1,8 +1,3 @@
----
-layout: default
-title: Image Bhattarai | Portfolio
----
-
 # Image Bhattarai: GIS & Remote Sensing Portfolio
 
 Welcome to my professional portfolio. Below are my primary research projects.
