@@ -29,5 +29,5 @@ This project develops an automated method to classify wetland hydroperiods (perm
 * **Analysis:** Classification based on the temporal variability (Coefficient of Variation) of NDWI.
 * **Goal:** Distinguishing between permanent water, seasonal wetlands, and vegetated wetlands.
 ### Final Output
-![Wetland Permanence Analysis Result](./output/output_.jpg)
+![Wetland Permanence Analysis Result](./output/Figure3_Classification_Map.png)
 * [**View GitHub Repository**](https://github.com/bhattaraicool-spec/wetland-permanence_CV_analysis_)
