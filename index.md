@@ -1,8 +1,3 @@
----
-layout: default
-title: Image Bhattarai | GIS Portfolio
----
-
 # GIS & Remote Sensing Portfolio
 
 ## 🌳 Chicago Park Accessibility Analysis
