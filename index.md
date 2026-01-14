@@ -13,6 +13,7 @@ This project focuses on creating a unified park feature layer for Chicago by mer
 * **Data Integration:** Used **Arcade expressions** to fix 12-digit Census ID mismatches.
 * **Spatial Join:** Applied the **CLOSEST** operator to resolve spatial nulls between disparate datasets.
 * **Quality Control:** Validated data using **Topology Rules** (Must Not Overlap)
+### Final Output
 ![Chicago Park Analysis Results](./output/output_)
 * [**View GitHub Repository**](https://github.com/bhattaraicool-spec/bhattaraicool-spec.github.io)
 
@@ -27,5 +28,6 @@ This project develops an automated method to classify wetland hydroperiods (perm
 * **Sensor:** Sentinel-2 Multi-temporal Imagery.
 * **Analysis:** Classification based on the temporal variability (Coefficient of Variation) of NDWI.
 * **Goal:** Distinguishing between permanent water, seasonal wetlands, and vegetated wetlands.
+### Final Output
 ![Wetland Permanence Analysis Result](./output/output_.jpg)
 * [**View GitHub Repository**](https://github.com/bhattaraicool-spec/wetland-permanence_CV_analysis_)
