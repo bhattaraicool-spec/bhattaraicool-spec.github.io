@@ -14,7 +14,7 @@ This project focuses on creating a unified park feature layer for Chicago by mer
 * **Spatial Join:** Applied the **CLOSEST** operator to resolve spatial nulls between disparate datasets.
 * **Quality Control:** Validated data using **Topology Rules** (Must Not Overlap)
 ### Final Output
-![Chicago Park Analysis Results](./output/output_)
+![Chicago Park Analysis Results](./output/output_.jpg)
 * [**View GitHub Repository**](https://github.com/bhattaraicool-spec/bhattaraicool-spec.github.io)
 
 ---
